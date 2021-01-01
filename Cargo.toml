@@ -5,7 +5,7 @@ authors = ["Jari Ravantti"]
 edition = "2018"
 description = "kymi-rl will this ever be a roguelike?"
 repository = "https://github.com/laittis/kymi-rl"
-license = "Apache-2.0"
+license = "Apache-2.0 or MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
