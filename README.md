@@ -1,7 +1,5 @@
 # kymi-rl
 
-[![Crates.io](https://img.shields.io/crates/v/kymi-rl.svg)](https://crates.io/crates/kymi-rl)
-[![Docs.rs](https://docs.rs/kymi-rl/badge.svg)](https://docs.rs/kymi-rl)
 [![CI](https://github.com/laittis/kymi-rl/workflows/Continuous%20Integration/badge.svg)](https://github.com/laittis/kymi-rl/actions)
 [![Coverage Status](https://coveralls.io/repos/github/laittis/kymi-rl/badge.svg?branch=master)](https://coveralls.io/github/laittis/kymi-rl?branch=master)
 
