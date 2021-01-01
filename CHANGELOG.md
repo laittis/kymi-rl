@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed 
+- Just moved around licence stuff.
+
 ## [0.0.1] - 2021-01-01
 ### Added
 - Initial creation of rl project for future work.
